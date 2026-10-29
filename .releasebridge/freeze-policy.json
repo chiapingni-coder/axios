@@ -1,0 +1,11 @@
+{
+  "schema": "RELEASEBRIDGE_PR_FREEZE_POLICY_V1",
+  "repo": "chiapingni-coder/axios",
+  "base_ref": "rb-axios-fix-baseline",
+  "protected_paths": [
+    {
+      "path": "lib/adapters/fetch.js",
+      "blob": "db1795dbed6925dcf04e18e4b130ca6b9379bbd7"
+    }
+  ]
+}
